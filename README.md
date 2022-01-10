@@ -76,7 +76,7 @@ the BUE Science and Innovation Park. </h2></p>
 </div>
 <button><a href="https://maps.app.goo.gl/cpmeqZEBetK4FvTS9">Location of university</a></button><br>
 
-
+ 
 <a href="https://www.facebook.com/24683497336/photos/10156939966177337/"><img src="facebook.png"ait=""width="100"height="100"><h3>facebook</h3><br></a>
 <a href="https://www.instagram.com/thebritishuniversityinegypt/?hl=en"><img src="instagram.png"ait=""width="100"height="100"><h3>instagram</h3><br></a>
 <a href="https://twitter.com/britishuniegypt"><img src="twitter.png"ait=""width="100"height="100"><h3>twitter</h3><br></a>
